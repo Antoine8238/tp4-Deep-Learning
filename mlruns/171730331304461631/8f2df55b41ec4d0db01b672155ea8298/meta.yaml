@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/tp4_dl/mlruns/171730331304461631/8f2df55b41ec4d0db01b672155ea8298/artifacts
+end_time: 1763412784044
+entry_point_name: ''
+experiment_id: '171730331304461631'
+lifecycle_stage: active
+run_id: 8f2df55b41ec4d0db01b672155ea8298
+run_name: UNet_DiceLoss_Adam
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763412216718
+status: 3
+tags: []
+user_id: Admin-Local
