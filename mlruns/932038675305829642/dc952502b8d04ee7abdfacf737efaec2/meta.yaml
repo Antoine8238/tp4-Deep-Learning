@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/tp4_dl/mlruns/932038675305829642/dc952502b8d04ee7abdfacf737efaec2/artifacts
+end_time: 1763413075147
+entry_point_name: ''
+experiment_id: '932038675305829642'
+lifecycle_stage: active
+run_id: dc952502b8d04ee7abdfacf737efaec2
+run_name: Conv3D_Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763413074924
+status: 3
+tags: []
+user_id: Admin-Local
