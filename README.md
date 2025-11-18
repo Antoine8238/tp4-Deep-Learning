@@ -24,14 +24,12 @@ Implémentation de l'architecture U-Net pour la segmentation sémantique d'image
 
 ```
 tp4-segmentation/
-├── exercice_2_1_unet.py       # Architecture U-Net complète
-├── exercice_2_2_metrics.py    # Métriques de segmentation (Dice, IoU)
-├── exercice_2_train.py        # Entraînement avec MLflow tracking
-├── exercice_3_conv3d.py       # Convolutions 3D pour données volumétriques
+├── unet.py       # Architecture U-Net complète
+├── metrics.py    # Métriques de segmentation (Dice, IoU)
+├── train.py        # Entraînement avec MLflow tracking
+├── conv3d.py       # Convolutions 3D pour données volumétriques
 ├── requirements.txt           # Dépendances Python
-├── rapport_tp4.tex           # Rapport LaTeX
-└── README.md                 # Ce fichier
-```
+
 
 ---
 
