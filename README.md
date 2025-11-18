@@ -63,7 +63,7 @@ numpy>=1.24.0
 Construction de l'architecture U-Net avec skip connections.
 
 ```bash
-python exercice_2_1_unet.py
+python unet.py
 ```
 
 **Sortie attendue :**
@@ -76,7 +76,7 @@ python exercice_2_1_unet.py
 Implémentation et test des métriques Dice Coefficient et IoU.
 
 ```bash
-python exercice_2_2_metrics.py
+python metrics.py
 ```
 
 **Sortie attendue :**
@@ -89,7 +89,7 @@ python exercice_2_2_metrics.py
 Génération de données synthétiques et entraînement du modèle U-Net.
 
 ```bash
-python exercice_2_train.py
+python train.py
 ```
 
 **Sortie attendue :**
@@ -103,7 +103,7 @@ python exercice_2_train.py
 Implémentation d'un bloc Conv3D pour données volumétriques.
 
 ```bash
-python exercice_3_conv3d.py
+python conv3d.py
 ```
 
 **Sortie attendue :**
